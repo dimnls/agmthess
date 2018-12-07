@@ -52,8 +52,8 @@
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #64a19d;
-  border: 1px solid #64a19d;
+  color: #00aeef;
+  border: 1px solid #00aeef;
 }
 
 #mainNav .navbar-toggler:focus {
@@ -111,6 +111,14 @@
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #222059;
+  }
+
+  #logo_color {
+    display: none;
+  }
+  
+  #logo_white {
+    display: inline-block;
   }
 
   .navbar-shrink #logo_color {
@@ -391,10 +399,6 @@ footer {
 
 .navbar-logo {
   width: 7%;
-}
-
-#logo_color {
-  display: none;
 }
 
 .text-white-thin {
