@@ -413,3 +413,16 @@ h4 {
 .highlights-section {
   padding-top: 0em;
 }
+
+.partners_logo {
+  max-height: 70px;
+  max-width: 200px;
+  margin: 10px 10px;
+}
+
+.partners_logo:hover {
+}
+
+#partners {
+  margin-top: 0em;
+}
